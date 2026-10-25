@@ -26,6 +26,10 @@ and upside down along the underside of blocks.
 - **Shader compatible** – works with Iris and shader packs such as Complementary.
 - English and Polish translations.
 
+![](docs/images/1.png) 
+![](docs/images/2.png) 
+![](docs/images/3.png) 
+
 ## Requirements
 
 | Component | Version |
