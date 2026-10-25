@@ -1,0 +1,14 @@
+{
+	"required": false,
+	"package": "pl.tomek.rollercoaster.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"CameraMixin"
+	],
+	"injectors": {
+		"defaultRequire": 0
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

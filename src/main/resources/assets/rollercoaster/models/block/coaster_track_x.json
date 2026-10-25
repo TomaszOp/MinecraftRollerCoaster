@@ -1,0 +1,202 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "rollercoaster:block/coaster_rail",
+    "sleeper": "rollercoaster:block/coaster_sleeper",
+    "rail": "rollercoaster:block/coaster_rail"
+  },
+  "elements": [
+    {
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        3.5,
+        1.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sleeper"
+        },
+        "south": {
+          "texture": "#sleeper"
+        },
+        "east": {
+          "texture": "#sleeper"
+        },
+        "west": {
+          "texture": "#sleeper"
+        },
+        "up": {
+          "texture": "#sleeper"
+        },
+        "down": {
+          "texture": "#sleeper"
+        }
+      }
+    },
+    {
+      "from": [
+        4.5,
+        0,
+        0
+      ],
+      "to": [
+        7.5,
+        1.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sleeper"
+        },
+        "south": {
+          "texture": "#sleeper"
+        },
+        "east": {
+          "texture": "#sleeper"
+        },
+        "west": {
+          "texture": "#sleeper"
+        },
+        "up": {
+          "texture": "#sleeper"
+        },
+        "down": {
+          "texture": "#sleeper"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        0,
+        0
+      ],
+      "to": [
+        11.5,
+        1.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sleeper"
+        },
+        "south": {
+          "texture": "#sleeper"
+        },
+        "east": {
+          "texture": "#sleeper"
+        },
+        "west": {
+          "texture": "#sleeper"
+        },
+        "up": {
+          "texture": "#sleeper"
+        },
+        "down": {
+          "texture": "#sleeper"
+        }
+      }
+    },
+    {
+      "from": [
+        12.5,
+        0,
+        0
+      ],
+      "to": [
+        15.5,
+        1.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sleeper"
+        },
+        "south": {
+          "texture": "#sleeper"
+        },
+        "east": {
+          "texture": "#sleeper"
+        },
+        "west": {
+          "texture": "#sleeper"
+        },
+        "up": {
+          "texture": "#sleeper"
+        },
+        "down": {
+          "texture": "#sleeper"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1.5,
+        2.5
+      ],
+      "to": [
+        16,
+        2.5,
+        4.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#rail"
+        },
+        "south": {
+          "texture": "#rail"
+        },
+        "east": {
+          "texture": "#rail"
+        },
+        "west": {
+          "texture": "#rail"
+        },
+        "up": {
+          "texture": "#rail"
+        },
+        "down": {
+          "texture": "#rail"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1.5,
+        11.5
+      ],
+      "to": [
+        16,
+        2.5,
+        13.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#rail"
+        },
+        "south": {
+          "texture": "#rail"
+        },
+        "east": {
+          "texture": "#rail"
+        },
+        "west": {
+          "texture": "#rail"
+        },
+        "up": {
+          "texture": "#rail"
+        },
+        "down": {
+          "texture": "#rail"
+        }
+      }
+    }
+  ]
+}

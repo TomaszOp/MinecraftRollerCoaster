@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "rollercoaster",
+	"version": "${version}",
+	"name": "Roller Coaster",
+	"description": "Uniwersalne tory (podloga, sciana, sufit) i wagonik jezdzacy pionowo oraz do gory nogami.",
+	"authors": [
+		"Tomek"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/rollercoaster/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"pl.tomek.rollercoaster.RollerCoasterMod"
+		],
+		"client": [
+			"pl.tomek.rollercoaster.client.RollerCoasterClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "rollercoaster.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

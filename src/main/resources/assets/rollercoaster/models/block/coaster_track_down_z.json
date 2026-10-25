@@ -1,0 +1,203 @@
+{
+ "parent": "minecraft:block/block",
+ "ambientocclusion": false,
+ "textures": {
+  "particle": "rollercoaster:block/coaster_rail",
+  "sleeper": "rollercoaster:block/coaster_sleeper",
+  "rail": "rollercoaster:block/coaster_rail"
+ },
+ "elements": [
+  {
+   "from": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "to": [
+    16.0,
+    1.5,
+    3.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#sleeper"
+    },
+    "south": {
+     "texture": "#sleeper"
+    },
+    "east": {
+     "texture": "#sleeper"
+    },
+    "west": {
+     "texture": "#sleeper"
+    },
+    "up": {
+     "texture": "#sleeper"
+    },
+    "down": {
+     "texture": "#sleeper"
+    }
+   }
+  },
+  {
+   "from": [
+    0.0,
+    0.0,
+    4.5
+   ],
+   "to": [
+    16.0,
+    1.5,
+    7.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#sleeper"
+    },
+    "south": {
+     "texture": "#sleeper"
+    },
+    "east": {
+     "texture": "#sleeper"
+    },
+    "west": {
+     "texture": "#sleeper"
+    },
+    "up": {
+     "texture": "#sleeper"
+    },
+    "down": {
+     "texture": "#sleeper"
+    }
+   }
+  },
+  {
+   "from": [
+    0.0,
+    0.0,
+    8.5
+   ],
+   "to": [
+    16.0,
+    1.5,
+    11.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#sleeper"
+    },
+    "south": {
+     "texture": "#sleeper"
+    },
+    "east": {
+     "texture": "#sleeper"
+    },
+    "west": {
+     "texture": "#sleeper"
+    },
+    "up": {
+     "texture": "#sleeper"
+    },
+    "down": {
+     "texture": "#sleeper"
+    }
+   }
+  },
+  {
+   "from": [
+    0.0,
+    0.0,
+    12.5
+   ],
+   "to": [
+    16.0,
+    1.5,
+    15.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#sleeper"
+    },
+    "south": {
+     "texture": "#sleeper"
+    },
+    "east": {
+     "texture": "#sleeper"
+    },
+    "west": {
+     "texture": "#sleeper"
+    },
+    "up": {
+     "texture": "#sleeper"
+    },
+    "down": {
+     "texture": "#sleeper"
+    }
+   }
+  },
+  {
+   "from": [
+    11.5,
+    1.5,
+    0.0
+   ],
+   "to": [
+    13.5,
+    2.5,
+    16.0
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rail"
+    },
+    "south": {
+     "texture": "#rail"
+    },
+    "east": {
+     "texture": "#rail"
+    },
+    "west": {
+     "texture": "#rail"
+    },
+    "up": {
+     "texture": "#rail"
+    },
+    "down": {
+     "texture": "#rail"
+    }
+   }
+  },
+  {
+   "from": [
+    2.5,
+    1.5,
+    0.0
+   ],
+   "to": [
+    4.5,
+    2.5,
+    16.0
+   ],
+   "faces": {
+    "north": {
+     "texture": "#rail"
+    },
+    "south": {
+     "texture": "#rail"
+    },
+    "east": {
+     "texture": "#rail"
+    },
+    "west": {
+     "texture": "#rail"
+    },
+    "up": {
+     "texture": "#rail"
+    },
+    "down": {
+     "texture": "#rail"
+    }
+   }
+  }
+ ]
+}

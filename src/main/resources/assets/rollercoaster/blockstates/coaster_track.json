@@ -1,0 +1,388 @@
+{
+ "variants": {
+  "axis=x,curve=pos_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_neg_neg"
+  },
+  "axis=x,curve=straight,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_x"
+  },
+  "axis=y,curve=straight,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_x"
+  },
+  "axis=z,curve=straight,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_z"
+  },
+  "axis=x,curve=pos_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_neg_neg"
+  },
+  "axis=x,curve=straight,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_x"
+  },
+  "axis=y,curve=straight,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_x"
+  },
+  "axis=z,curve=straight,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_z"
+  },
+  "axis=x,curve=pos_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_neg_neg"
+  },
+  "axis=x,curve=straight,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=y,curve=straight,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_y"
+  },
+  "axis=z,curve=straight,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=x,curve=pos_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_neg_neg"
+  },
+  "axis=x,curve=straight,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=y,curve=straight,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_y"
+  },
+  "axis=z,curve=straight,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=x,curve=pos_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_neg_neg"
+  },
+  "axis=x,curve=straight,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=y,curve=straight,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=z,curve=straight,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_z"
+  },
+  "axis=x,curve=pos_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_pos"
+  },
+  "axis=y,curve=pos_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_pos"
+  },
+  "axis=z,curve=pos_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_pos"
+  },
+  "axis=x,curve=pos_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_neg"
+  },
+  "axis=y,curve=pos_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_neg"
+  },
+  "axis=z,curve=pos_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_pos_neg"
+  },
+  "axis=x,curve=neg_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_pos"
+  },
+  "axis=y,curve=neg_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_pos"
+  },
+  "axis=z,curve=neg_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_pos"
+  },
+  "axis=x,curve=neg_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_neg"
+  },
+  "axis=y,curve=neg_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_neg"
+  },
+  "axis=z,curve=neg_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_neg_neg"
+  },
+  "axis=x,curve=straight,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=y,curve=straight,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=z,curve=straight,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_z"
+  },
+  "axis=x,curve=ascending_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_slope",
+   "y": 90
+  },
+  "axis=x,curve=ascending_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_slope",
+   "y": 270
+  },
+  "axis=y,curve=ascending_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_x"
+  },
+  "axis=y,curve=ascending_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_x"
+  },
+  "axis=z,curve=ascending_pos,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_slope",
+   "y": 180
+  },
+  "axis=z,curve=ascending_neg,facing=down": {
+   "model": "rollercoaster:block/coaster_track_down_slope"
+  },
+  "axis=x,curve=ascending_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_slope",
+   "y": 90
+  },
+  "axis=x,curve=ascending_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_slope",
+   "y": 270
+  },
+  "axis=y,curve=ascending_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_x"
+  },
+  "axis=y,curve=ascending_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_x"
+  },
+  "axis=z,curve=ascending_pos,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_slope",
+   "y": 180
+  },
+  "axis=z,curve=ascending_neg,facing=up": {
+   "model": "rollercoaster:block/coaster_track_up_slope"
+  },
+  "axis=x,curve=ascending_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=x,curve=ascending_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=y,curve=ascending_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_y"
+  },
+  "axis=y,curve=ascending_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_y"
+  },
+  "axis=z,curve=ascending_pos,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=z,curve=ascending_neg,facing=north": {
+   "model": "rollercoaster:block/coaster_track_north_x"
+  },
+  "axis=x,curve=ascending_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=x,curve=ascending_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=y,curve=ascending_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_y"
+  },
+  "axis=y,curve=ascending_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_y"
+  },
+  "axis=z,curve=ascending_pos,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=z,curve=ascending_neg,facing=south": {
+   "model": "rollercoaster:block/coaster_track_south_x"
+  },
+  "axis=x,curve=ascending_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=x,curve=ascending_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=y,curve=ascending_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=y,curve=ascending_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_y"
+  },
+  "axis=z,curve=ascending_pos,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_z"
+  },
+  "axis=z,curve=ascending_neg,facing=west": {
+   "model": "rollercoaster:block/coaster_track_west_z"
+  },
+  "axis=x,curve=ascending_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=x,curve=ascending_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=y,curve=ascending_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=y,curve=ascending_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_y"
+  },
+  "axis=z,curve=ascending_pos,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_z"
+  },
+  "axis=z,curve=ascending_neg,facing=east": {
+   "model": "rollercoaster:block/coaster_track_east_z"
+  }
+ }
+}

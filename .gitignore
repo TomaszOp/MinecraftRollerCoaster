@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Fabric Loom: środowisko testowe (./gradlew runClient / runServer)
+run/
+remappedSrc/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# System
+.DS_Store
+Thumbs.db
+*~
+*.swp
